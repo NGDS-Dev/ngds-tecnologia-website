@@ -1,0 +1,1206 @@
+# Translation of Plugins - Speed Optimizer &#8211; The All-In-One Performance-Boosting Plugin - Stable (latest release) in Spanish (Colombia)
+# This file is distributed under the same license as the Plugins - Speed Optimizer &#8211; The All-In-One Performance-Boosting Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-01 05:17:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CO\n"
+"Project-Id-Version: Plugins - Speed Optimizer &#8211; The All-In-One Performance-Boosting Plugin - Stable (latest release)\n"
+
+#: helpers/react-strings.php:91
+msgid "Rate Plugin"
+msgstr "Calificar el plugin"
+
+#: helpers/react-strings.php:90
+msgid "Help other users make the best decision and speed up their websites."
+msgstr "Ayuda a otros usuarios a tomar la mejor decisión y aumentar la velocidad de sus sitios web."
+
+#: helpers/react-strings.php:89
+msgid "Rate your experience with Speed Optimizer"
+msgstr "Califica tu experiencia con Speed Optimizer"
+
+#: helpers/react-strings.php:244 helpers/sg-cachepress-react-strings.php:242
+msgid "Either a security plugin, custom function, or rules in your .htaccess file is preventing the WordPress REST API from working properly. Speed Optimizer is using it to store its options and other functionalities so please make sure it works properly."
+msgstr "Un plugin de seguridad, una función personalizada, o reglas en tu archivo .htaccess están reviniendo que la REST API de WordPress funcione de manera adecuada. Speed Optimizer la está usando para almacenar sus opciones y otras funcionalidades, por favor asegúrate de que funciona correctamente."
+
+#: helpers/sg-cachepress-react-strings.php:88
+msgid "Thank you for using Speed Optimizer by SiteGround!"
+msgstr "Gracias por usar Speed Optimizer de SiteGround!"
+
+#: helpers/sg-cachepress-react-strings.php:64
+msgid "Use this feature if you want to exclude certain parts of your website from being cached and keep them dynamic. You can exclude full or partial URLs using '*' as a wildcard. E.g. www.site.com/parent-page/* will exclude all sub-pages of 'parent-page'."
+msgstr "Usa esta característica si quieres excluir ciertas partes de tu web de ser cacheadas y dejarlas dinámicas. Puedes excluir URLs completas o parciales usando '*' como comodín. Ej.: www.sitio.com/pagina-superior/* excluirá todas las subpáginas de la 'pagina-superior'."
+
+#: helpers/react-strings.php:35 helpers/sg-cachepress-react-strings.php:34
+msgid "Speed Optimizer - Media"
+msgstr "Speed Optimizer - Multimedia"
+
+#: helpers/react-strings.php:32 helpers/sg-cachepress-react-strings.php:31
+msgid "Speed Optimizer - Site Performance"
+msgstr "Speed Optimizer - Rendimiento del sitio"
+
+#: helpers/react-strings.php:28 helpers/sg-cachepress-react-strings.php:27
+msgid "Speed Optimizer - Environment"
+msgstr "Speed Optimizer - Entorno"
+
+#: helpers/react-strings.php:26 helpers/sg-cachepress-react-strings.php:25
+msgid "Speed Optimizer - Caching"
+msgstr "Speed Optimizer - Caché"
+
+#: helpers/react-strings.php:30 helpers/sg-cachepress-react-strings.php:29
+msgid "Speed Optimizer - Frontend Optimization"
+msgstr "Speed Optimizer - Optimización del sitio público"
+
+#: helpers/react-strings.php:8 helpers/sg-cachepress-react-strings.php:7
+msgid "Send occasional emails with tips on improving my site performance, information about new plugin features and exclusive offers by SiteGround. You can always opt-out from these."
+msgstr "Enviar correos electrónicos ocasionalmente con recomendaciones para mejorar el rendimiento de mi sitio, información acerca de las nuevas características del plugin y ofertas exclusivas de SiteGround. Siempre puedes darte de baja de esto."
+
+#: helpers/react-strings.php:24 helpers/sg-cachepress-react-strings.php:23
+msgid "Speed Optimizer by SiteGround"
+msgstr "Speed Optimizer de SiteGround"
+
+#: core/Modules/Modules.php:798
+msgid "Welcome to Speed Optimizer by SiteGround"
+msgstr "Bienvenido a Speed Optimizer de SiteGround"
+
+#: helpers/react-strings.php:25 helpers/sg-cachepress-react-strings.php:24
+msgid "Get the best performance for your WordPress website with our top-rated optimization plugin. The Speed Optimizer by SiteGround handles caching better than ever and provides a number of environment, media and frontend optimizations for a blazing-fast loading."
+msgstr "Obtén el mejor rendimiento de tu sitio web de WordPress con nuestro plugin de optimización altamente valorado. El Speed Optimizer de SiteGround maneja la caché mejor que nunca y provee un número de optimizaciones de entorno, multimedia y sitio público para una carga ultrarrápida."
+
+#. Plugin Name of the plugin
+#: sg-cachepress.php core/Admin/Admin.php:247 core/Admin/Admin.php:248
+msgid "Speed Optimizer"
+msgstr "Speed Optimizer"
+
+#: templates/performance_reports/performance_reports.php:131
+msgid " recommended speed optimization features"
+msgstr " características de optimización de velocidad recomendadas"
+
+#: core/Performance_Reports/Performance_Reports.php:232
+#: core/Performance_Reports/Performance_Reports.php:254
+#: core/Performance_Reports/Performance_Reports.php:300
+#: templates/performance_reports/performance_reports.php:129
+msgid " out of "
+msgstr " de "
+
+#: templates/performance_reports/performance_reports.php:127
+msgid "You are using "
+msgstr "Estás usando "
+
+#: templates/performance_reports/performance_reports.php:121
+msgid "Optimized"
+msgstr "Optimizado"
+
+#: templates/performance_reports/performance_reports.php:101
+msgid "Hey there,"
+msgstr "¡Hola!"
+
+#: helpers/react-strings.php:221 helpers/sg-cachepress-react-strings.php:219
+msgid "Create"
+msgstr "Crear"
+
+#: helpers/react-strings.php:217 helpers/sg-cachepress-react-strings.php:215
+msgid "Add New Notification Email"
+msgstr "Agregar nueva notificación por correo"
+
+#: helpers/react-strings.php:222 helpers/sg-cachepress-react-strings.php:220
+msgid "Manage Notification Emails"
+msgstr "Gestionar notificaciones de correo"
+
+#: helpers/react-strings.php:216 helpers/sg-cachepress-react-strings.php:214
+msgid "The maximum number of email accounts that can receive the weekly reports email has been reached."
+msgstr "Haz alcanzado el número máximo de cuentas de correo que pueden recibir los reportes semanales por correo."
+
+#: helpers/react-strings.php:215 helpers/sg-cachepress-react-strings.php:213
+msgid "Actions"
+msgstr "Acciones"
+
+#: helpers/react-strings.php:17 helpers/react-strings.php:214
+#: helpers/react-strings.php:219 helpers/react-strings.php:220
+#: helpers/sg-cachepress-react-strings.php:16
+#: helpers/sg-cachepress-react-strings.php:212
+#: helpers/sg-cachepress-react-strings.php:217
+#: helpers/sg-cachepress-react-strings.php:218
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: helpers/react-strings.php:16 helpers/react-strings.php:218
+#: helpers/sg-cachepress-react-strings.php:15
+#: helpers/sg-cachepress-react-strings.php:216
+msgid "Invalid email address"
+msgstr "Dirección de correo electrónico no válida"
+
+#: helpers/react-strings.php:34 helpers/sg-cachepress-react-strings.php:33
+msgid "Discover the tools and insights you need to optimize your website's performance. This section covers running Google PageSpeed tests, tracking the history of your PageSpeed scores, and receiving monthly performance email reports to help you stay informed and make data-driven improvements."
+msgstr "Descubre las nuevas herramientas y perspectivas que necesitas para optimizar el rendimiento de tu sitio web. Esta sección cubre la ejecución de pruebas de Google PageSpeed, rastreo del histórico tus puntajes de PageSpeed, y recibiendo reportes mensuales por correo acerca del rendimiento para mantengas informado y hagas mejoras basadas en datos."
+
+#: core/Modules/Modules.php:496 helpers/manual-translations.php:10
+msgid "Speed Test"
+msgstr "Prueba de velocidad"
+
+#: helpers/react-strings.php:210 helpers/sg-cachepress-react-strings.php:208
+msgid "Disable WebP"
+msgstr "Desactivar WebP"
+
+#: helpers/react-strings.php:179 helpers/sg-cachepress-react-strings.php:177
+msgid "I want to compress my existing images, too."
+msgstr "También quiero comprimir mis imágenes existentes."
+
+#: helpers/react-strings.php:177 helpers/sg-cachepress-react-strings.php:175
+msgid "Back up all original images."
+msgstr "Copia de seguridad de todas las imágenes originales."
+
+#: core/Message_Service/Message_Service.php:67
+msgid "Compression settings updated"
+msgstr "Actualizados los ajustes de compresión"
+
+#: helpers/react-strings.php:36 helpers/sg-cachepress-react-strings.php:35
+msgid "Image optimization is one of the fundamentals of improving site speed. With image compression, lazy load, and WebP enabled, your site loading speed will be reduced significantly. Additionally, the space your images occupy may also decrease, optimizing your disk space usage."
+msgstr "La optimización de imágenes es uno de los fundamentos para mejorar la velocidad del sitio. Con la compresión de imágenes, la carga diferida y WebP activados, la velocidad de carga de tu sitio se reducirá significativamente. Además, el espacio que ocupan tus imágenes también puede disminuir, optimizando el uso del espacio en tu disco."
+
+#: helpers/react-strings.php:33 helpers/sg-cachepress-react-strings.php:32
+msgid "Test your website loading speed with Google PageSpeed. The detailed audits will cover more than 20 areas in terms of how your website performs. Additionally, tips and tricks on improving your score will be provided if an optimization opportunity occurs."
+msgstr "Prueba la velocidad de carga de tu web con Google PageSpeed. Las auditorías detalladas cubrirán más de 20 áreas en términos sobre cómo está rindiendo tu web. Además, se proporcionarán consejos y trucos sobre cómo mejorar tu puntuación si se produce una oportunidad de optimización."
+
+#: helpers/react-strings.php:31 helpers/sg-cachepress-react-strings.php:30
+msgid "Frontend optimizations can significantly decrease loading speed with a variety of changes that reduce the size of scripts as well as the number of characters used."
+msgstr "Las optimizaciones de la portada pueden disminuir significativamente la velocidad de carga con una variedad de cambios que reducen el tamaño de los scripts, así como el número de caracteres usados."
+
+#: helpers/react-strings.php:29 helpers/sg-cachepress-react-strings.php:28
+msgid "Create a safer and faster experience for your users with an optimized environment - decrease the CPU usage by modifying the WordPress Heartbeat API; Pre-Fetch External domains to decrease loading time for third-party domains content; Schedule Database Maintenance to keep your databases clean and fast, and more."
+msgstr "Crea una experiencia más segura y rápida para tus usuarios con un entorno optimizado: Disminuye el uso de la CPU modificando la API Heartbeat de WordPress, precarga los dominios externos para reducir el tiempo de carga del contenido de dominios de terceros, programa el mantenimiento de la base de datos para mantener tus bases de datos limpias y rápidas y mucho más."
+
+#: helpers/react-strings.php:27 helpers/sg-cachepress-react-strings.php:26
+msgid "Caching is essential for speeding up your website. With our Dynamic Caching enabled all non-static resources of your website are cached to prevent unnecessary database queries and page loading, effectively decreasing the loading sped and TTFB (time to first byte) of your website."
+msgstr "El almacenamiento en la caché es esencial para acelerar tu web. Con nuestro almacenamiento dinámico en la caché activo, todos los recursos no estáticos de tu web son almacenados en la caché para evitar consultas innecesarias a la base de datos y la carga de la página, reduciendo de forma efectiva la velocidad de carga y el TTFB (tiempo hasta el primer byte) de tu web."
+
+#: helpers/react-strings.php:245 helpers/react-strings.php:247
+#: helpers/sg-cachepress-react-strings.php:243
+#: helpers/sg-cachepress-react-strings.php:245
+msgid "Could not connect to the WordPress REST API"
+msgstr "No se ha podido conectar con la API REST de WordPress"
+
+#: helpers/react-strings.php:103 helpers/react-strings.php:107
+#: helpers/sg-cachepress-react-strings.php:101
+#: helpers/sg-cachepress-react-strings.php:105
+msgid "Unless you rely on it to execute scheduled tasks, we recommend to keep it disabled."
+msgstr "Salvo que dependas de él para ejecutar tareas programadas, recomendamos mantenerlo desactivado."
+
+#: helpers/react-strings.php:88 helpers/sg-cachepress-react-strings.php:87
+msgid "Rate Us"
+msgstr "Valóranos"
+
+#: core/Message_Service/Message_Service.php:66
+msgid "List of excluded media types is updated"
+msgstr "La lista de tipos de medios excluidos está actualizada"
+
+#: core/Message_Service/Message_Service.php:65
+msgid "List of excluded class names is updated"
+msgstr "La lista de nombres de clases excluidas está actualizada"
+
+#: core/Message_Service/Message_Service.php:62
+#: core/Message_Service/Message_Service.php:63
+#: core/Message_Service/Message_Service.php:64
+msgid "List of excluded scrpts is updated"
+msgstr "La lista de scripts excluidos está actualizada"
+
+#: core/Message_Service/Message_Service.php:60
+#: core/Message_Service/Message_Service.php:61
+msgid "List of excluded styles is updated"
+msgstr "La lista de estilos excluidos está actualizada"
+
+#: core/Message_Service/Message_Service.php:59
+msgid "List of excluded post types is updated"
+msgstr "La lista de tipos de contenido excluidos está actualizada"
+
+#: core/Message_Service/Message_Service.php:56
+msgid "List of external URLs is updated"
+msgstr "La lista de URL externas está actualizada"
+
+#: core/Message_Service/Message_Service.php:55
+#: core/Message_Service/Message_Service.php:57
+msgid "List of excluded urls is updated"
+msgstr "La lista de URL excluidas está actualizada"
+
+#: helpers/react-strings.php:248 helpers/sg-cachepress-react-strings.php:246
+msgid "This field is required."
+msgstr "Este campo es obligatorio."
+
+#: helpers/react-strings.php:246 helpers/sg-cachepress-react-strings.php:244
+msgid "Either a security plugin, custom function or rules in your .htaccess file is preventing the WordPress REST API from working properly. SiteGround Security is using it to store its options and other functionalities so please make sure it works properly."
+msgstr "Un plugin de seguridad, una función personalizada o reglas en tu archivo «.htaccess» están evitando que la API REST de WordPress funcione correctamente. SiteGround Security está usándola para almacenar sus opciones y otras funcionalidades, así que, por favor, asegúrate de que funcione correctamente."
+
+#: helpers/react-strings.php:243 helpers/sg-cachepress-react-strings.php:241
+msgid "Time to First Byte"
+msgstr "Tiempo hasta el primer byte"
+
+#: helpers/react-strings.php:242 helpers/sg-cachepress-react-strings.php:240
+msgid "Page Load Time"
+msgstr "Tiempo de carga de la página"
+
+#: helpers/react-strings.php:241 helpers/sg-cachepress-react-strings.php:239
+msgid "Google Score"
+msgstr "Puntuación de Google"
+
+#: helpers/react-strings.php:240 helpers/sg-cachepress-react-strings.php:238
+msgid "Recommended Optimizations"
+msgstr "Optimizaciones recomendadas"
+
+#: helpers/react-strings.php:239 helpers/sg-cachepress-react-strings.php:237
+msgid "Go to media"
+msgstr "Ir a los medios"
+
+#: helpers/react-strings.php:235 helpers/sg-cachepress-react-strings.php:233
+msgid "Transfer Size"
+msgstr "Tamaño de la transferencia"
+
+#: helpers/react-strings.php:234 helpers/sg-cachepress-react-strings.php:232
+msgid "URL Address"
+msgstr "Dirección URL"
+
+#: helpers/react-strings.php:233 helpers/react-strings.php:236
+#: helpers/sg-cachepress-react-strings.php:231
+#: helpers/sg-cachepress-react-strings.php:234
+msgid "Potential Saving"
+msgstr "Ahorro potencial"
+
+#: helpers/react-strings.php:232 helpers/sg-cachepress-react-strings.php:230
+msgid "Optimize Resources"
+msgstr "Optimizar recursos"
+
+#: helpers/react-strings.php:230 helpers/sg-cachepress-react-strings.php:228
+msgid "General Optimizations"
+msgstr "Optimizaciones generales"
+
+#: helpers/react-strings.php:229 helpers/sg-cachepress-react-strings.php:227
+msgid "JavaScript Optimizations"
+msgstr "Optimizaciones de JavaScript"
+
+#: helpers/react-strings.php:228 helpers/sg-cachepress-react-strings.php:226
+msgid "CSS Optimizations"
+msgstr "Optimizaciones de CSS"
+
+#: helpers/react-strings.php:225 helpers/sg-cachepress-react-strings.php:223
+msgid "Mobile"
+msgstr "Móviles"
+
+#: helpers/react-strings.php:224 helpers/sg-cachepress-react-strings.php:222
+msgid "Desktop"
+msgstr "Sobremesa"
+
+#: helpers/react-strings.php:213 helpers/sg-cachepress-react-strings.php:211
+msgid "Enabling WebP will re-generate all existing WebP images, if any and will generate new WebP versions of all existing standard images. This is a time and resource consuming process that may take awhile, depending on the number and size of your images."
+msgstr "Activar WebP volverá a generar todas las imágenes WebP existentes, si las hubiese, y generará nuevas versiones en WebP de todas las imágenes estándar existentes. Este es un proceso que consume tiempo y recursos y que puede tardar un rato, dependiendo de la cantidad y tamaño de tus imágenes."
+
+#: helpers/react-strings.php:211 helpers/sg-cachepress-react-strings.php:209
+msgid "Enable WebP"
+msgstr "Activar WebP"
+
+#: helpers/react-strings.php:207 helpers/sg-cachepress-react-strings.php:205
+msgid "Converting image %(converted)s of %(total)s..."
+msgstr "Convirtiendo imagen %(converted)s de %(total)s..."
+
+#: helpers/react-strings.php:205 helpers/sg-cachepress-react-strings.php:203
+msgid "Compression Settings"
+msgstr "Ajustes de compresión"
+
+#: helpers/react-strings.php:202 helpers/sg-cachepress-react-strings.php:200
+msgid "With Lazy Load enabled only the media in the visible part of the browser will be loaded. This makes loading faster and smoother for longer pages with multiple media items."
+msgstr "Con la carga diferida activa solo se cargarán los medios de la parte visible del navegador. Esto hace que la carga sea más rápida y fluida en páginas largas, con muchos elementos de medios."
+
+#: helpers/react-strings.php:199 helpers/sg-cachepress-react-strings.php:197
+msgid "Preview Image"
+msgstr "Previsualizar imagen"
+
+#: helpers/react-strings.php:197 helpers/sg-cachepress-react-strings.php:195
+msgid "Compare Image Compression Level"
+msgstr "Comparar nivel de compresión de imágenes"
+
+#: helpers/react-strings.php:196 helpers/sg-cachepress-react-strings.php:194
+msgid "High (85%% size reduction) - %(size)s"
+msgstr "Alto (85%% de reducción de tamaño) - %(size)s"
+
+#: helpers/react-strings.php:195 helpers/sg-cachepress-react-strings.php:193
+msgid "Medium (60%% size reduction) - %(size)s"
+msgstr "Medio (60%% de reducción de tamaño) - %(size)s"
+
+#: helpers/react-strings.php:194 helpers/sg-cachepress-react-strings.php:192
+msgid "Low (25%% size reduction) - %(size)s"
+msgstr "Bajo (25%% de reducción de tamaño) - %(size)s"
+
+#: helpers/react-strings.php:193 helpers/sg-cachepress-react-strings.php:191
+msgid "Original - %(size)s"
+msgstr "Original - %(size)s"
+
+#: helpers/react-strings.php:192 helpers/sg-cachepress-react-strings.php:190
+msgid "Select Image"
+msgstr "Seleccionar imagen"
+
+#: helpers/react-strings.php:191 helpers/sg-cachepress-react-strings.php:189
+msgid "Select from existing"
+msgstr "Seleccionar entre las existentes"
+
+#: helpers/react-strings.php:190 helpers/sg-cachepress-react-strings.php:188
+msgid "Default"
+msgstr "Por defecto"
+
+#: helpers/react-strings.php:111 helpers/react-strings.php:187
+#: helpers/sg-cachepress-react-strings.php:109
+#: helpers/sg-cachepress-react-strings.php:185
+msgid "Edit"
+msgstr "Editar"
+
+#: helpers/react-strings.php:186 helpers/sg-cachepress-react-strings.php:184
+msgid "Preview"
+msgstr "Vista previa"
+
+#: helpers/react-strings.php:185 helpers/sg-cachepress-react-strings.php:183
+msgid "Image compression level is"
+msgstr "El nivel de compresión de imágenes es de"
+
+#: helpers/react-strings.php:184 helpers/sg-cachepress-react-strings.php:182
+msgid "We will resize your images to decrease the space they occupy and the time needed for each image to load. The dimensions of your images will not change and with our improved resizing algorithm the visual change in quality is practically non-detectable. Changing your compression level will re-generate all existing images, including WebP images. This is a time and resource consuming process that may take awhile depending on the number and size of your images."
+msgstr "Cambiaremos el tamaño de tus imágenes para disminuir el espacio que ocupan y el tiempo de carga de cada imagen. Las dimensiones de tus imágenes no cambiarán y con nuestro algoritmo de cambio de tamaño mejorado el cambio visual en la calidad es prácticamente indetectable. Al cambiar el nivel de compresión se volverán a generar todas las imágenes existentes, incluidas las imágenes WebP. Este es un proceso que consume tiempo y recursos y que puede llevar un tiempo dependiendo de la cantidad y el tamaño de tus imágenes."
+
+#: helpers/react-strings.php:183 helpers/sg-cachepress-react-strings.php:181
+msgid "Image Compression"
+msgstr "Compresión de imágenes"
+
+#: helpers/react-strings.php:182 helpers/sg-cachepress-react-strings.php:180
+msgid "Compressing image %(converted)s of %(total)s..."
+msgstr "Comprimiendo imagen %(converted)s de %(total)s..."
+
+#: helpers/react-strings.php:181 helpers/sg-cachepress-react-strings.php:179
+msgid "Changing your compression level will re-generate all existing images. This is a time and resource consuming process that may take awhile, depending on the number and size of your images."
+msgstr "Al cambiar el nivel de compresión se volverán a generar todas las imágenes existentes. Este es un proceso que consume tiempo y recursos y que puede llevar un tiempo, dependiendo de la cantidad y el tamaño de tus imágenes."
+
+#: helpers/react-strings.php:178 helpers/sg-cachepress-react-strings.php:176
+msgid "While this is great to have if you plan to change image compression levels in future, bear in mind that this is a resource consuming option that will take up from your hosting space."
+msgstr "Aunque esto es genial para el caso de que planees cambiar los niveles de compresión de las imágenes en el futuro, ten en cuenta que esta es una opción que consume recursos y te quitará espacio en tu alojamiento."
+
+#: core/Images_Optimizer/Images_Optimizer.php:491 helpers/react-strings.php:176
+#: helpers/react-strings.php:200 helpers/sg-cachepress-react-strings.php:174
+#: helpers/sg-cachepress-react-strings.php:198
+msgid "Compression Level"
+msgstr "Nivel de compresión"
+
+#: helpers/react-strings.php:175 helpers/sg-cachepress-react-strings.php:173
+msgid "Select the compression level you wish to use. The higher the compression, the larger the space saved."
+msgstr "Selecciona el nivel de compresión que quieras usar. Cuanto mayor sera la compresión mayor será el espacio ahorrado."
+
+#: helpers/react-strings.php:174 helpers/sg-cachepress-react-strings.php:172
+msgid "Configure Image Compression"
+msgstr "Configurar compresión de imágenes"
+
+#: helpers/react-strings.php:173 helpers/sg-cachepress-react-strings.php:171
+msgid "%(number)s media types"
+msgstr "%(number)s tipos de medios"
+
+#: helpers/react-strings.php:171 helpers/react-strings.php:172
+#: helpers/sg-cachepress-react-strings.php:169
+#: helpers/sg-cachepress-react-strings.php:170
+msgid "Exclude Media Types from Lazy Load"
+msgstr "Excluir tipos de medios de la carga diferida"
+
+#: helpers/react-strings.php:170 helpers/sg-cachepress-react-strings.php:168
+msgid "%(number)s classes"
+msgstr "%(number)s clases"
+
+#: helpers/react-strings.php:168 helpers/react-strings.php:169
+#: helpers/sg-cachepress-react-strings.php:166
+#: helpers/sg-cachepress-react-strings.php:167
+msgid "Exclude CSS Classes from Lazy Load"
+msgstr "Excluir clases CSS de la carga diferida"
+
+#: helpers/react-strings.php:157 helpers/react-strings.php:159
+#: helpers/sg-cachepress-react-strings.php:155
+#: helpers/sg-cachepress-react-strings.php:157
+msgid "Exclude from Deferral of Render-blocking JS"
+msgstr "Excluir del aplazamiento del JS que bloquea la visualización"
+
+#: helpers/react-strings.php:155 helpers/sg-cachepress-react-strings.php:153
+msgid "Defer Render-blocking JavaScript"
+msgstr "Aplazar JavaScript que bloquee la visualización"
+
+#: helpers/react-strings.php:148 helpers/sg-cachepress-react-strings.php:146
+msgid "Remove unnecessary characters from your HTML output to reduce data size and improve your site loading speed."
+msgstr "Elimina caracteres innecesarios del HTML resultante para reducir el tamaño de los datos y mejorar la velocidad de carga de tu sitio."
+
+#: helpers/react-strings.php:146 helpers/sg-cachepress-react-strings.php:144
+msgid "Fonts to be Preloaded"
+msgstr "Fuentes a precargar"
+
+#: helpers/react-strings.php:145 helpers/sg-cachepress-react-strings.php:143
+msgid "%(number)s fonts"
+msgstr "%(number)s fuentes"
+
+#: helpers/react-strings.php:144 helpers/sg-cachepress-react-strings.php:142
+msgid "Preload the fonts you're using for faster rendering and better site performance. Make sure you preload only the fonts that are actually in use. {{strong}}Use the full URL to the font.{{/strong}}"
+msgstr "Precarga las fuentes que estés usando para procesarlas más rápidamente y un mejor rendimiento del sitio. Asegúrate de precargar solo las fuentes que estén actualmente en uso. {{strong}}Usa la URL completa de la fuente.{{/strong}}"
+
+#: helpers/react-strings.php:143 helpers/sg-cachepress-react-strings.php:141
+msgid "Fonts Preloading"
+msgstr "Precarga de fuentes"
+
+#: helpers/react-strings.php:133 helpers/sg-cachepress-react-strings.php:131
+msgid "Manage General Frontend"
+msgstr "Gestión general en portada"
+
+#: helpers/react-strings.php:132 helpers/sg-cachepress-react-strings.php:130
+msgid "Manage JavaScript Frontend"
+msgstr "Gestión de JavaScript en portada"
+
+#: helpers/react-strings.php:131 helpers/sg-cachepress-react-strings.php:129
+msgid "Manage CSS Frontend"
+msgstr "Gestión de CSS en portada"
+
+#: helpers/react-strings.php:130 helpers/sg-cachepress-react-strings.php:128
+msgid "This feature only works if you have Combine CSS Files enabled. To start using this feature, enable Combine CSS Files first."
+msgstr "Esta característica solo funciona si has activado combinar los archivos CSS. Para empezar a usar esta característica primero activa combinar los archivos CSS."
+
+#: helpers/react-strings.php:129 helpers/sg-cachepress-react-strings.php:127
+msgid "Adds the preload value to the combine css files instructing the browser that this is important resource which will be needed very soon to render the page."
+msgstr "Añade el valor de precarga a los archivos css combinados, indicando al navegador que esto es un recurso importante que será necesario muy pronto para poder mostrar la página."
+
+#: helpers/react-strings.php:121 helpers/react-strings.php:124
+#: helpers/react-strings.php:141 helpers/react-strings.php:158
+#: helpers/react-strings.php:161 helpers/react-strings.php:164
+#: helpers/sg-cachepress-react-strings.php:119
+#: helpers/sg-cachepress-react-strings.php:122
+#: helpers/sg-cachepress-react-strings.php:139
+#: helpers/sg-cachepress-react-strings.php:156
+#: helpers/sg-cachepress-react-strings.php:159
+#: helpers/sg-cachepress-react-strings.php:162
+msgid "%(number)s scripts"
+msgstr "%(number)s scripts"
+
+#: helpers/react-strings.php:117 helpers/sg-cachepress-react-strings.php:115
+msgid "Are you sure you wish to proceed?"
+msgstr "¿Seguro que deseas continuar?"
+
+#: helpers/react-strings.php:116 helpers/sg-cachepress-react-strings.php:114
+msgid "Enabling HTTPS Enforce will have you logged out from your current session and you will have to log back in to your WordPress admin."
+msgstr "Al activar forzar HTTPS se te desconectará de tu sesión actual y tendrás que volver a acceder a la administración de tu WordPress."
+
+#: helpers/react-strings.php:115 helpers/sg-cachepress-react-strings.php:113
+msgid "You Will be Logged Out"
+msgstr "Se te desconectará"
+
+#: helpers/react-strings.php:113 helpers/sg-cachepress-react-strings.php:111
+msgid "HTTPS Enforce"
+msgstr "Forzar HTTPS"
+
+#: helpers/react-strings.php:139 helpers/sg-cachepress-react-strings.php:137
+msgid "Manage External Domains"
+msgstr "Gestionar dominios externos"
+
+#: helpers/react-strings.php:137 helpers/sg-cachepress-react-strings.php:135
+msgid "Enabling the DNS Pre-fetch for a domain will resolve it before resources from it get requested making those resources load faster."
+msgstr "Activar la precarga de DNS para un dominio lo resolverá antes de que se soliciten los recursos del mismo haciendo que esos recursos se carguen más rápido."
+
+#: helpers/react-strings.php:114 helpers/sg-cachepress-react-strings.php:112
+msgid "Configures your site to work correctly via HTTPS and forces a secure connection to your site. In order to force HTTPS, we will automatically update your database replacing all insecure links. In addition to that, we will add a rule in your .htaccess file, forcing all requests to go through encrypted connection."
+msgstr "Configura tu sitio para que funcione correctamente a través de HTTPS y fuerza una conexión segura a tu sitio. Para forzar HTTPS actualizaremos automáticamente tu base de datos, reemplazando todos los enlaces inseguros. Además de eso, añadiremos una regla a tu archivo .htaccess, forzando a que todas las solicitudes pasen por una conexión cifrada. "
+
+#: helpers/react-strings.php:104 helpers/sg-cachepress-react-strings.php:102
+msgid "Posts and Pages"
+msgstr "Entradas y páginas"
+
+#: helpers/react-strings.php:101 helpers/sg-cachepress-react-strings.php:99
+msgid "The WordPress Heartbeat API checks your post edit pages every 15 seconds and your dashboard and front end every 60 seconds, even in the absence of scheduled tasks. This can generate high CPU usage if you leave browser tabs in which you're logged to WordPress opened for a longer period of time. You can modify these settings to reduce load."
+msgstr "La API Heartbeat de WordPress comprueba tus páginas de edición de entradas cada 15 segundos y tu escritorio y portada cada 60 segundos, incluso aunque no haya tareas programadas. Esto puede generar un alto uso de CPU si dejas pestañas del navegador abiertas en las que estés conectado a WordPress durante un largo periodo de tiempo. Puedes modificar estos ajustes para reducir la carga."
+
+#: helpers/react-strings.php:95 helpers/sg-cachepress-react-strings.php:93
+msgid "This feature only works if you have HTTPS Enforce enabled. To start using this feature, enable HTTPS enforce first."
+msgstr "Esta característica solo funciona si has activado forzar HTTPS. Para empezar a usar esta característica primero activa forzar HTTPS."
+
+#: helpers/react-strings.php:92 helpers/sg-cachepress-react-strings.php:90
+msgid "Environment settings"
+msgstr "Ajustes del entorno"
+
+#: helpers/react-strings.php:87 helpers/sg-cachepress-react-strings.php:86
+msgid "Important Notifications"
+msgstr "Avisos importantes"
+
+#: helpers/react-strings.php:86 helpers/sg-cachepress-react-strings.php:85
+msgid "Other Optimizations"
+msgstr "Otras optimizaciones"
+
+#: helpers/react-strings.php:57 helpers/sg-cachepress-react-strings.php:56
+msgid "Store your content in the server's memory for a faster access with full-page caching solution powered by NGINX. Having Dynamic Cache is essential for speeding up your website."
+msgstr "Almacena tu contenido en la memoria del servidor para tener un acceso más rápido con la solución de caché de página completa de NGINX. Tener caché dinámica es esencial para acelerar tu web."
+
+#: helpers/react-strings.php:50 helpers/react-strings.php:249
+#: helpers/sg-cachepress-react-strings.php:49
+#: helpers/sg-cachepress-react-strings.php:247
+msgid "Invalid URL"
+msgstr "URL no válida"
+
+#: helpers/react-strings.php:47 helpers/sg-cachepress-react-strings.php:46
+msgid "Review the caching status of specific URLs. Use this functionality to verify whether excluded URLs are working as expected."
+msgstr "Revisa el estado de caché de URLs específicas. Usa esta funcionalidad para verificar si las URLs excluidas están funcionado como se espera."
+
+#: helpers/react-strings.php:46 helpers/sg-cachepress-react-strings.php:45
+msgid "Test URL Caching Status"
+msgstr "Probar estado de caché de URL"
+
+#: helpers/react-strings.php:53 helpers/sg-cachepress-react-strings.php:52
+msgid "Generate caching separately for different browsers. Enable this feature only if you're experiencing issues with plugins generating mobile versions of your website or other similar functionality. {{strong}}This feature significantly lowers caching efficiency.{{/strong}}"
+msgstr "Genera caché por separado para los distintos navegadores. Activa esta características solo si estás experimentando problemas con plugins que generen versiones móviles de tu web u otra funcionalidad similar. {{strong}}Esta característica reduce significativamente la efectividad de la caché.{{/strong}}"
+
+#: helpers/react-strings.php:52 helpers/sg-cachepress-react-strings.php:51
+msgid "Browser-specific Caching"
+msgstr "Caché específica por navegador"
+
+#: helpers/react-strings.php:60 helpers/sg-cachepress-react-strings.php:59
+msgid "%(number)s post types"
+msgstr "%(number)s tipos de contenido"
+
+#: helpers/react-strings.php:59 helpers/sg-cachepress-react-strings.php:58
+msgid "You can exclude certain post types from being cached. This is useful if you have sensitive or often changing post types that you don't want to cache but still want to benefit from caching for the rest of your site."
+msgstr "Puedes excluir ciertos tipos de contenido de la caché. Esto es útil si tienes tipos de contenido sensibles o que cambian a menudo que no quieras almacenar en la caché pero que todavía quieras beneficiarte de la caché en el resto de tu sitio."
+
+#: helpers/react-strings.php:51 helpers/react-strings.php:58
+#: helpers/sg-cachepress-react-strings.php:50
+#: helpers/sg-cachepress-react-strings.php:57
+msgid "Exclude Post Types from Caching"
+msgstr "Excluir tipos de contenido de la caché"
+
+#: helpers/react-strings.php:66 helpers/react-strings.php:138
+#: helpers/sg-cachepress-react-strings.php:65
+#: helpers/sg-cachepress-react-strings.php:136
+msgid "%(number)s URLs"
+msgstr "%(number)s URLs"
+
+#: helpers/react-strings.php:65
+msgid "Use this feature if you want to exclude certain parts of your website from being cached and keep them dynamic. You can exclude full or partial URLs using \"*\" as a wildcard. E.g. www.site.com/parent-page/* will exclude all sub-pages of \"parent-page\"."
+msgstr "Usa esta característica si quieres excluir ciertas partes de tu web de la caché y dejarlos dinámicos. Puedes excluir URLs completas o parciales, usando «*» como comodín. P.ej.: www.sitio.com/pagina-superior/* excluirá todas las subpáginas de la «pagina-superior»."
+
+#: helpers/react-strings.php:49 helpers/react-strings.php:64
+#: helpers/sg-cachepress-react-strings.php:48
+#: helpers/sg-cachepress-react-strings.php:63
+msgid "Exclude URLs from Caching"
+msgstr "Excluir URLs de la caché"
+
+#: helpers/react-strings.php:43 helpers/sg-cachepress-react-strings.php:42
+msgid "When clearing the cache - purge the WordPress API cache too."
+msgstr "Cuando se vacíe la caché - vaciar también la caché de la API de WordPress."
+
+#: helpers/react-strings.php:42 helpers/sg-cachepress-react-strings.php:41
+msgid "Perform a smart cache purge based on events happening on your WordPress site."
+msgstr "Realiza un vaciado inteligente de la caché, basado en los eventos que estén ocurriendo en tu sitio WordPress."
+
+#: helpers/react-strings.php:41 helpers/sg-cachepress-react-strings.php:40
+msgid "Automatic Purge"
+msgstr "Vaciado automático"
+
+#: helpers/react-strings.php:40 helpers/sg-cachepress-react-strings.php:39
+msgid "Caching Settings"
+msgstr "Ajustes de caché"
+
+#: helpers/react-strings.php:39 helpers/sg-cachepress-react-strings.php:38
+msgid "Caching Types"
+msgstr "Tipos de caché"
+
+#: helpers/react-strings.php:61 helpers/react-strings.php:62
+#: helpers/sg-cachepress-react-strings.php:60
+#: helpers/sg-cachepress-react-strings.php:61
+msgid "This feature only works if you have Dynamic Caching enabled. To start using this feature, enable Dynamic Caching first."
+msgstr "Esta característica solo funciona si has activado la caché dinámica. Para empezar a usar esta característica primero activa la caché dinámica."
+
+#: helpers/react-strings.php:38 helpers/sg-cachepress-react-strings.php:37
+msgid "Success"
+msgstr "Conseguido"
+
+#: helpers/react-strings.php:37 helpers/sg-cachepress-react-strings.php:36
+msgid "Error"
+msgstr "Error"
+
+#: helpers/react-strings.php:21 helpers/sg-cachepress-react-strings.php:20
+msgid "Select one or more"
+msgstr "Selecciona uno o más"
+
+#: helpers/react-strings.php:20 helpers/sg-cachepress-react-strings.php:19
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: helpers/react-strings.php:19 helpers/sg-cachepress-react-strings.php:18
+msgid "Enable"
+msgstr "Activar"
+
+#: helpers/react-strings.php:18 helpers/sg-cachepress-react-strings.php:17
+msgid "Feature Unavailable"
+msgstr "Característica no disponible"
+
+#: core/Rest/Rest_Helper_Options.php:293
+msgid "Missing ID param!"
+msgstr "¡Parámetro de ID no disponible!"
+
+#: core/Message_Service/Message_Service.php:58
+msgid "Preloaded fonts successfully modified"
+msgstr "Fuentes en precarga modificadas correctamente"
+
+#: core/Rest/Rest_Helper_Misc.php:35
+msgid "We failed to connect to Google servers, please try later!"
+msgstr "¡No hemos podido conectar con los servidores de Google, por favor, inténtalo más tarde!"
+
+#: core/Rest/Rest_Helper_Environment.php:239
+msgid "WordPress Heartbeat Location Interval updated"
+msgstr "Intervalo de actualización del Heartbeat de WordPress actualizado"
+
+#: core/Rest/Rest_Helper_Dashboard.php:87
+msgid "Review your caching settings and enable the recommended options to get the best of your website caching."
+msgstr "Revisa tus ajustes de caché y activa las opciones recomendadas para obtener la mejor caché de tu web."
+
+#: core/Rest/Rest_Helper_Dashboard.php:81 helpers/manual-translations.php:7
+msgid "Caching"
+msgstr "Caché"
+
+#: core/Rest/Rest_Helper_Dashboard.php:72 helpers/manual-translations.php:11
+msgid "Media"
+msgstr "Medios"
+
+#: core/Rest/Rest_Helper_Dashboard.php:70
+msgid " Go to Media"
+msgstr "Ir a los medios"
+
+#: core/Rest/Rest_Helper_Dashboard.php:69
+msgid "Optimizing your media and images can significantly decrease usage and loading time."
+msgstr "Optimizar tus medios e imágenes puede disminuir significativamente el tiempo de uso y carga."
+
+#: core/Rest/Rest_Helper_Dashboard.php:63 helpers/manual-translations.php:9
+msgid "Frontend"
+msgstr "Portada"
+
+#: core/Rest/Rest_Helper_Dashboard.php:61
+msgid " Go to Frontend"
+msgstr "Ir a la portada"
+
+#: core/Rest/Rest_Helper_Dashboard.php:60
+msgid "Decrease your loading speed by optimizing your frontend code."
+msgstr "Disminuye tu tiempo de carga optimizando tu código de portada."
+
+#: core/Rest/Rest_Helper_Dashboard.php:54 helpers/manual-translations.php:8
+msgid "Environment"
+msgstr "Entorno"
+
+#: core/Rest/Rest_Helper_Dashboard.php:52
+msgid " Go to Environment"
+msgstr "Ir al entorno"
+
+#: core/Rest/Rest_Helper_Dashboard.php:51
+msgid "Server-side optimizations can have a great impact on loading speed and TTFB."
+msgstr "Las optimizaciones del servidor pueden tener un alto impacto en la velocidad de carga y el TTFB."
+
+#: core/Rest/Rest_Helper_Dashboard.php:26
+msgid "Update"
+msgstr "Actualizar"
+
+#: core/Rest/Rest_Helper_Dashboard.php:25
+msgid "There are new updates for your website. Keeping your WordPress updated is crucial for your website security"
+msgstr "Hay nuevas actualizaciones para tu web. Mantener tu WordPress actualizado es crucial para la seguridad de tu web."
+
+#: core/Rest/Rest_Helper_Dashboard.php:24
+msgid "YOUR WORDPRESS NEEDS ATTENTION"
+msgstr "TU WORDPRESS NECESITA ATENCIÓN"
+
+#: core/Rest/Rest_Helper_Cache.php:266
+msgid "Dynamic Caching successfully purged"
+msgstr "Caché dinámica vaciada correctamente"
+
+#: core/Rest/Rest_Helper_Cache.php:250
+msgid "The URL is not cached"
+msgstr "La URL no está en la caché"
+
+#: core/Rest/Rest_Helper_Cache.php:249
+msgid "The URL is cached"
+msgstr "La URL está en la caché"
+
+#: core/Rest/Rest_Helper.php:58
+msgid "Incorrect params used."
+msgstr "Se han usado parámetros incorrectos."
+
+#: core/Message_Service/Message_Service.php:52 helpers/react-strings.php:128
+#: helpers/sg-cachepress-react-strings.php:126
+msgid "Preload Combined CSS"
+msgstr "Precargar el CSS combinado"
+
+#: helpers/react-strings.php:203 helpers/sg-cachepress-react-strings.php:201
+msgid "Maximum Image Width"
+msgstr "Ancho máximo de imágenes"
+
+#: core/Message_Service/Message_Service.php:40
+msgid "Backup Media"
+msgstr "Copia de seguridad de medios"
+
+#: core/Analysis/Analysis.php:382 helpers/react-strings.php:209
+#: helpers/react-strings.php:238 helpers/sg-cachepress-react-strings.php:207
+#: helpers/sg-cachepress-react-strings.php:236
+msgid "WebP is a next generation image format supported by modern browsers which greatly reduces the size of standard image formats while keeping the same quality. Almost all current browsers work with WebP."
+msgstr "WebP es un formato de imágenes de nueva generación admitido por los navegadores modernos que reduce enormemente el tamaño de los formatos de imagen tradicionales al mismo tiempo que mantiene la misma calidad. Casi todos los navegadores modernos funcionan con WebP."
+
+#: core/Analysis/Analysis.php:381 helpers/react-strings.php:208
+#: helpers/react-strings.php:237 helpers/sg-cachepress-react-strings.php:206
+#: helpers/sg-cachepress-react-strings.php:235
+msgid "Use WebP Images"
+msgstr "Usar imágenes WebP"
+
+#: core/Admin/Admin.php:388
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: core/Analysis/Analysis.php:451
+msgid "Speed Index shows how quickly the contents of a page are visibly populated."
+msgstr "El índice de velocidad muestra lo rápidamente que se rellena de forma visible el contenido de una página."
+
+#: core/Analysis/Analysis.php:450
+msgid "Summarizes the page's performance."
+msgstr "Resume el rendimiento de la página."
+
+#: core/Analysis/Analysis.php:420
+msgid "Minify your JavaScript files in order to reduce their size and reduce the number of requests to the server."
+msgstr "Minimiza tus archivos JavaScript para disminuir su tamaño y reducir el número de peticiones al servidor."
+
+#: core/Analysis/Analysis.php:388
+msgid "Load images only when they are visible in the browser."
+msgstr "Carga las imágenes solo cuando sean visibles en el navegador."
+
+#: core/Analysis/Analysis.php:376 core/Analysis/Analysis.php:406
+#: helpers/react-strings.php:156 helpers/sg-cachepress-react-strings.php:154
+msgid "Defer loading of render-blocking JavaScript files for faster initial site load."
+msgstr "Carga aplazada de archivos JavaScript que bloquean la visualización para una carga inicial del sitio más rápida."
+
+#: core/Install_Service/Install_5_7_0.php:29
+msgid "With this optimization we are changing the default way to load Google fonts in order to save HTTP requests. In addition to that, all other fonts that your website uses will be properly preloaded so browsers take the least possible amount of time to cache and render them."
+msgstr "Con esta optimización estamos cambiando el modo por defecto en el que cargar las fuentes de Google para ahorrar peticiones HTTP. Además de eso, todas las demás fuentes que usa tu web se precargarán correctamente, para que a los navegadores les lleve la menor cantidad de tiempo posible almacenarlas en caché y procesarlas."
+
+#: core/Analysis/Analysis.php:409 core/Install_Service/Install_5_7_0.php:28
+#: core/Message_Service/Message_Service.php:37 helpers/react-strings.php:151
+#: helpers/sg-cachepress-react-strings.php:149
+msgid "Web Fonts Optimization"
+msgstr "Optimización de fuentes web"
+
+#: core/Performance_Reports/Performance_Reports.php:269
+#: helpers/react-strings.php:84 helpers/react-strings.php:110
+#: helpers/react-strings.php:189 helpers/sg-cachepress-react-strings.php:83
+#: helpers/sg-cachepress-react-strings.php:108
+#: helpers/sg-cachepress-react-strings.php:187
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: core/Analysis/Analysis.php:410 helpers/react-strings.php:152
+#: helpers/sg-cachepress-react-strings.php:150
+msgid "With this optimization we're changing the default way to load Google fonts in order to save HTTP requests. In addition to that, all other fonts that your website uses will be properly preloaded so browsers take the least possible amount of time to cache and render them."
+msgstr "Con esta optimización estamos cambiando la forma de cargar las fuentes de Google por defecto para ahorrar peticiones HTTP. Además, todas las demás fuentes que usa tu web serán cargadas previamente de forma correcta para que los navegadores tarden la menor cantidad de tiempo posible en almacenarlas en la caché y mostrarlas."
+
+#: helpers/react-strings.php:100 helpers/sg-cachepress-react-strings.php:98
+msgid "WordPress Heartbeat Optimization"
+msgstr "Optimización de Heartbeat de WordPress"
+
+#: helpers/react-strings.php:106 helpers/sg-cachepress-react-strings.php:104
+msgid "Site Frontend"
+msgstr "Parte visible del sitio"
+
+#: helpers/react-strings.php:102 helpers/sg-cachepress-react-strings.php:100
+msgid "WordPress Admin Pages"
+msgstr "Páginas de administración de WordPress"
+
+#: helpers/react-strings.php:136 helpers/sg-cachepress-react-strings.php:134
+msgid "DNS Pre-fetch for External Domains"
+msgstr "Precarga de DNS de dominios externos"
+
+#: core/Message_Service/Message_Service.php:51
+msgid "DNS Prefetching"
+msgstr "Precarga de DNS"
+
+#: core/Message_Service/Message_Service.php:49 helpers/react-strings.php:108
+#: helpers/sg-cachepress-react-strings.php:106
+msgid "Scheduled Database Maintenance"
+msgstr "Mantenimiento programado de la base de datos"
+
+#: core/Message_Service/Message_Service.php:48
+msgid "Heartbeat Optimization"
+msgstr "Optimización de Heartbeat"
+
+#: core/Admin/Admin.php:225
+msgid "Your site tried to store a single object above 1MB in Memcached which is above the limitation and will actually slow your site rather than speed it up. Please, check your Options table for obsolete data before enabling it again. Note that the service will be automatically disabled if such error occurs again."
+msgstr "Tu sitio trató de almacenar un objeto simple de más de 1MB en Memcached, que está por encima del límite, y ralentizará tu sitio en vez de acelerarlo. Por favor, revisa tu tabla de opciones para buscar datos obsoletos antes de activarlo de nuevo. Ten en cuenta que el servicio se desactivará automáticamente si ocurre de nuevo este error. "
+
+#: core/Install_Service/Install_5_5_0.php:54
+#: core/Install_Service/Install_5_7_0.php:34
+msgid "Enable Now"
+msgstr "Activar ahora"
+
+#: core/Install_Service/Install_5_5_0.php:49
+msgid "We are combining all the JS files that your theme and plugins include in your site header and footer in order to lower the number of requests it is producing. We will keep the scripts in their original location after the combination for best compatibility with other plugins. Note, that in some cases you may need to exclude a script or two from combination so make sure you check your site after enabling the JavaScript Files Combination!"
+msgstr "Estamos combinando todos los archivos JS que incluyen tu tema y plugins en la cabecera y pie de página del sitio para reducir la cantidad de peticiones que estén produciendo. Mantendremos los scripts en su ubicación original después de combinarlos para  una mejor compatibilidad con otros plugins. Ten en cuenta que en algunos casos puede  que tengas que excluir un script o dos de la combinación así que ¡asegúrate de revisar tu sitio después de activar la combinación de archivos JavaScript!  "
+
+#: core/Install_Service/Install_5_5_0.php:48
+#: core/Message_Service/Message_Service.php:36
+msgid "JavaScript Files Combination"
+msgstr "Combinado de archivos JavaScript"
+
+#: helpers/react-strings.php:160 helpers/react-strings.php:162
+#: helpers/sg-cachepress-react-strings.php:158
+#: helpers/sg-cachepress-react-strings.php:160
+msgid "Exclude from JavaScript Combination"
+msgstr "Excluir de la combinación de JavaScript"
+
+#: helpers/react-strings.php:153 helpers/sg-cachepress-react-strings.php:151
+msgid "Combine JavaScript Files"
+msgstr "Combinar archivos JavaScript"
+
+#: core/Modules/Modules.php:489 helpers/manual-translations.php:5
+#: helpers/react-strings.php:206 helpers/sg-cachepress-react-strings.php:204
+msgid "Media Optimization"
+msgstr "Optimización de medios"
+
+#: core/Analysis/Analysis.php:387 helpers/react-strings.php:201
+#: helpers/sg-cachepress-react-strings.php:199
+msgid "Lazy Load Media"
+msgstr "Carga diferida de medios"
+
+#: helpers/sg-cachepress-react-strings.php:89
+msgid "Help other people speed up their sites by rating our plugin."
+msgstr "Ayuda a otras personas a optimizar sus sitios valorando nuestro plugin."
+
+#: core/Analysis/Analysis.php:394 core/Analysis/Analysis.php:424
+#: helpers/react-strings.php:119 helpers/sg-cachepress-react-strings.php:117
+msgid "Combine multiple CSS files into one to lower the number of requests your site generates."
+msgstr "Combina varios archivos CSS en uno para reducir el número de peticiones que genera tu sitio."
+
+#: core/Analysis/Analysis.php:416
+msgid "Removes unnecessary characters from your HTML output saving data and improving your site speed."
+msgstr "Elimina caracteres innecesarios de tu salida HTML ahorrando datos y mejorando la velocidad de tu sitio."
+
+#: helpers/react-strings.php:135 helpers/sg-cachepress-react-strings.php:133
+msgid "Enable to prevent WordPress from automatically detecting and generating emojis in your pages."
+msgstr "Actívalo para evitar que WordPress detecte y genere emojis automáticamente en tus páginas."
+
+#: helpers/react-strings.php:134 helpers/sg-cachepress-react-strings.php:132
+msgid "Disable Emojis"
+msgstr "Desactivar Emojis"
+
+#: helpers/react-strings.php:150 helpers/sg-cachepress-react-strings.php:148
+msgid "Removes version query strings from your static resources improving the caching of those resources."
+msgstr "Elimina las cadenas de petición de versión de tus recursos estáticos, mejorando la caché de esos recursos."
+
+#: helpers/react-strings.php:149 helpers/sg-cachepress-react-strings.php:147
+msgid "Remove Query Strings from Static Resources"
+msgstr "Elimina las cadenas de consulta de recursos estáticos"
+
+#: helpers/react-strings.php:120 helpers/react-strings.php:122
+#: helpers/sg-cachepress-react-strings.php:118
+#: helpers/sg-cachepress-react-strings.php:120
+msgid "Exclude from CSS Combination"
+msgstr "Excluir de la combinación de CSS"
+
+#: helpers/react-strings.php:154 helpers/sg-cachepress-react-strings.php:152
+msgid "Combine multiple JavaScript files into one to lower the number of requests your site generates."
+msgstr "Combina varios archivos JavaScript en uno para reducir el número de peticiones que genera tu sitio."
+
+#: core/Analysis/Analysis.php:393 core/Analysis/Analysis.php:423
+#: helpers/react-strings.php:118 helpers/sg-cachepress-react-strings.php:116
+msgid "Combine CSS Files"
+msgstr "Combinar archivos CSS"
+
+#: helpers/react-strings.php:123 helpers/react-strings.php:125
+#: helpers/sg-cachepress-react-strings.php:121
+#: helpers/sg-cachepress-react-strings.php:123
+msgid "Exclude from CSS Minification"
+msgstr "Excluir del minimizado de CSS"
+
+#: helpers/react-strings.php:127 helpers/sg-cachepress-react-strings.php:125
+msgid "Minify your CSS files in order to reduce their size and the number of requests on the server."
+msgstr "Minimiza tus archivos CSS para reducir su tamaño y el número de peticiones en el servidor."
+
+#: helpers/react-strings.php:126 helpers/sg-cachepress-react-strings.php:124
+msgid "Minify CSS Files"
+msgstr "Minimizar archivos CSS"
+
+#: helpers/react-strings.php:163 helpers/react-strings.php:165
+#: helpers/sg-cachepress-react-strings.php:161
+#: helpers/sg-cachepress-react-strings.php:163
+msgid "Exclude from JavaScript Minification"
+msgstr "Excluir del minimizado de JavaScript"
+
+#: helpers/react-strings.php:167 helpers/sg-cachepress-react-strings.php:165
+msgid "Minify your JavaScript files in order to reduce their size and the number of requests on the server."
+msgstr "Minimiza tus archivos JavaScript para reducir su tamaño y el número de peticiones en el servidor."
+
+#: core/Analysis/Analysis.php:419 helpers/react-strings.php:166
+#: helpers/sg-cachepress-react-strings.php:164
+msgid "Minify JavaScript Files"
+msgstr "MInimizar los archivos JavaScript"
+
+#: helpers/react-strings.php:140 helpers/react-strings.php:142
+#: helpers/sg-cachepress-react-strings.php:138
+#: helpers/sg-cachepress-react-strings.php:140
+msgid "Exclude from HTML Minification"
+msgstr "Excluir de la minimización de HTML"
+
+#: core/Analysis/Analysis.php:415 helpers/react-strings.php:147
+#: helpers/sg-cachepress-react-strings.php:145
+msgid "Minify the HTML Output"
+msgstr "Minimizar la salida HTML"
+
+#: helpers/react-strings.php:94 helpers/sg-cachepress-react-strings.php:92
+msgid "Enable this option in case you’re getting insecure content errors on your website. We will dynamically rewrite insecure requests for resources coming from your site."
+msgstr "Activa esta opción en caso de que estés teniendo en tu web errores de contenido inseguro. Reescribiremos dinámicamente las peticiones inseguras a los recursos que vengan de tu sitio."
+
+#: helpers/react-strings.php:93 helpers/sg-cachepress-react-strings.php:91
+msgid "Fix Insecure Content"
+msgstr "Corregir contenido inseguro"
+
+#: helpers/react-strings.php:227 helpers/sg-cachepress-react-strings.php:225
+msgid "Analyze"
+msgstr "Analizar"
+
+#: helpers/react-strings.php:226 helpers/sg-cachepress-react-strings.php:224
+msgid "URL"
+msgstr "URL"
+
+#: helpers/react-strings.php:223 helpers/sg-cachepress-react-strings.php:221
+msgid "Device Type"
+msgstr "Tipo de dispositivo"
+
+#: helpers/react-strings.php:82 helpers/sg-cachepress-react-strings.php:81
+msgid "Powerful object caching for your site. Memcached stores frequently executed queries to your databases and then reuses them for better performance."
+msgstr "Potente caché de objetos para tu sitio. Memcached almacena consultas ejecutadas con frecuencia a tus bases de datos y las reutiliza para un mejor rendimiento."
+
+#: core/Message_Service/Message_Service.php:26 helpers/react-strings.php:81
+#: helpers/sg-cachepress-react-strings.php:80
+msgid "Memcached"
+msgstr "Memcached"
+
+#: helpers/react-strings.php:78 helpers/sg-cachepress-react-strings.php:77
+msgid "Manual Cache Purge"
+msgstr "Vaciado manual de caché"
+
+#: core/Analysis/Analysis.php:400 core/Analysis/Analysis.php:430
+msgid "Store your content in the server’s memory for a faster access with this full-page caching solution powered by NGINX."
+msgstr "Almacena tu contenido en la memoria de los servidores para un acceso más rápido con esta solución de caché de página completa creada por NGINX."
+
+#: core/Analysis/Analysis.php:399 core/Analysis/Analysis.php:429
+#: helpers/react-strings.php:56 helpers/sg-cachepress-react-strings.php:55
+msgid "Dynamic Caching"
+msgstr "Caché dinámica"
+
+#: helpers/react-strings.php:48 helpers/sg-cachepress-react-strings.php:47
+msgid "Test"
+msgstr "Probar"
+
+#: helpers/react-strings.php:4 helpers/react-strings.php:11
+#: helpers/react-strings.php:22 helpers/sg-cachepress-react-strings.php:4
+#: helpers/sg-cachepress-react-strings.php:10
+#: helpers/sg-cachepress-react-strings.php:21
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: helpers/react-strings.php:198 helpers/sg-cachepress-react-strings.php:196
+msgid "Close"
+msgstr "Cerrar"
+
+#: helpers/react-strings.php:5 helpers/react-strings.php:23
+#: helpers/sg-cachepress-react-strings.php:5
+#: helpers/sg-cachepress-react-strings.php:22
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: core/Message_Service/Message_Service.php:42
+msgid "WebP Generation for New Images"
+msgstr "Creación de WebP para las nuevas imágenes"
+
+#: core/Message_Service/Message_Service.php:53
+msgid "Please, install an SSL certificate first!"
+msgstr "¡Por favor, instala primero un certificado SSL!"
+
+#: core/Analysis/Analysis.php:190
+msgid "Opportunities to Optimize"
+msgstr "Oportunidades para optimizar"
+
+#: core/Analysis/Analysis.php:183
+msgid "The Following Areas of Your Site Are Well Optimized:"
+msgstr "Las siguientes áreas de tu sitio están bien optimizadas:"
+
+#: core/Analysis/Analysis.php:375 core/Analysis/Analysis.php:405
+#: core/Message_Service/Message_Service.php:33
+msgid "Defer Render-blocking JS"
+msgstr "Aplazar JS que bloqueen la carga"
+
+#: core/Message_Service/Message_Service.php:25
+msgid "Browser-Specific Caching"
+msgstr "Caché específica del navegador"
+
+#. Author URI of the plugin
+#: sg-cachepress.php
+msgid "https://www.siteground.com"
+msgstr "https://www.siteground.es"
+
+#. Plugin URI of the plugin
+#: sg-cachepress.php
+msgid "https://siteground.com"
+msgstr "https://siteground.com"
+
+#: core/Front_End_Optimization/Front_End_Optimization.php:448
+msgid "others"
+msgstr "otras"
+
+#: core/Message_Service/Message_Service.php:35
+msgid "CSS Combination"
+msgstr "Combinar CSS"
+
+#. translators: 1: the message option
+#: core/Message_Service/Message_Service.php:93
+msgid "Could not disable %s"
+msgstr "No se puede desactivar %s"
+
+#. translators: 1: the message option
+#: core/Message_Service/Message_Service.php:90
+msgid "Could not enable %s"
+msgstr "No se puede activar %s"
+
+#. translators: 1: the message option
+#: core/Message_Service/Message_Service.php:84
+msgid "%s Disabled"
+msgstr "%s desactivado"
+
+#. translators: 1: the message option
+#: core/Message_Service/Message_Service.php:81
+msgid "%s Enabled"
+msgstr "%s activado"
+
+#: core/Modules/Modules.php:479 helpers/manual-translations.php:4
+msgid "Frontend Optimization"
+msgstr "Optimización de la portada"
+
+#: core/Modules/Modules.php:469 helpers/manual-translations.php:3
+msgid "Environment Optimization"
+msgstr "Optimización del entorno"
+
+#: core/Modules/Modules.php:462 helpers/manual-translations.php:2
+msgid "SuperCacher Settings"
+msgstr "Ajustes de SuperCacher"
+
+#: core/Message_Service/Message_Service.php:47
+#: core/Message_Service/Message_Service.php:71
+msgid "Can Optimize Environment"
+msgstr "Puede optimizar el entorno"
+
+#: core/Message_Service/Message_Service.php:46
+#: core/Message_Service/Message_Service.php:70
+msgid "Can Optimize Images"
+msgstr "Puede optimizar imágenes"
+
+#: core/Message_Service/Message_Service.php:45
+#: core/Message_Service/Message_Service.php:69
+msgid "Can Optimize Frontend"
+msgstr "Puede optimizar la portada"
+
+#: core/Message_Service/Message_Service.php:44
+#: core/Message_Service/Message_Service.php:68
+msgid "Can Config SuperCacher"
+msgstr "Puede configurar SuperCacher"
+
+#: core/Message_Service/Message_Service.php:41
+msgid "Lazy Loading Images"
+msgstr "Carga diferida de imágenes"
+
+#: core/Message_Service/Message_Service.php:39
+msgid "Emoji Removal Filter"
+msgstr "Filtro de eliminación de Emoji"
+
+#: core/Message_Service/Message_Service.php:38
+msgid "Query Strings Removal"
+msgstr "Eliminación de las cadenas de consulta"
+
+#: core/Message_Service/Message_Service.php:34
+msgid "CSS Minification"
+msgstr "Minimización CSS"
+
+#: core/Message_Service/Message_Service.php:32
+msgid "JavaScript Minification"
+msgstr "Minimización JavaScript"
+
+#: core/Message_Service/Message_Service.php:31
+msgid "HTML Minification"
+msgstr "Minimización HTML"
+
+#: core/Message_Service/Message_Service.php:28
+msgid "Insecure Content Fix"
+msgstr "Corrección del contenido inseguro"
+
+#: core/Message_Service/Message_Service.php:30 helpers/react-strings.php:98
+#: helpers/sg-cachepress-react-strings.php:96
+msgid "Browser Caching"
+msgstr "Caché del navegador"
+
+#: core/Message_Service/Message_Service.php:27
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: core/Message_Service/Message_Service.php:24
+msgid "Autoflush"
+msgstr "Vaciado automático"
+
+#: core/Rest/Rest_Helper_Cache.php:363
+msgid "Could Not Disable Memcache!"
+msgstr "¡No se puede desactivar Memcached!"
+
+#: core/Rest/Rest_Helper_Cache.php:338 core/Rest/Rest_Helper_Cache.php:355
+msgid "Memcached Disabled!"
+msgstr "¡Memcached desactivado!"
+
+#: core/Rest/Rest_Helper_Cache.php:320
+msgid "Could Not Enable Memcache!"
+msgstr "¡No se puede activar Memcached!"
+
+#: core/Rest/Rest_Helper_Cache.php:304
+msgid "Memcached Enabled"
+msgstr "Memcached activado"
+
+#: core/Message_Service/Message_Service.php:29 helpers/react-strings.php:96
+#: helpers/sg-cachepress-react-strings.php:94
+msgid "GZIP Compression"
+msgstr "Compresión GZIP"
+
+#: helpers/react-strings.php:231 helpers/sg-cachepress-react-strings.php:229
+msgid "Other"
+msgstr "Otros"
+
+#: helpers/manual-translations.php:6
+msgid "Performance Test"
+msgstr "Prueba de rendimiento"
+
+#: helpers/react-strings.php:83 helpers/react-strings.php:109
+#: helpers/react-strings.php:188 helpers/sg-cachepress-react-strings.php:82
+#: helpers/sg-cachepress-react-strings.php:107
+#: helpers/sg-cachepress-react-strings.php:186
+msgid "Enabled"
+msgstr "Activo"
+
+#. Description of the plugin
+#: sg-cachepress.php
+msgid "This plugin will link your WordPress application with all the performance optimizations provided by SiteGround"
+msgstr "Este plugin enlazará tu aplicación WordPress con todas las optimizaciones de rendimiento ofrecidas por SiteGround"
+
+#: helpers/react-strings.php:80 helpers/sg-cachepress-react-strings.php:79
+msgid "Purge Cache"
+msgstr "Purgar caché"
+
+#: core/Message_Service/Message_Service.php:22
+msgid "Dynamic Cache"
+msgstr "Caché dinámica"
+
+#: core/Admin/Admin_Bar.php:61
+msgid "Purge SG Cache"
+msgstr "Purgar caché de SG"
+
+#. Author of the plugin
+#: sg-cachepress.php
+msgid "SiteGround"
+msgstr "SiteGround"
